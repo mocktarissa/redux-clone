@@ -1,0 +1,25 @@
+{
+  "name": "redux-clone",
+  "version": "1.0.0",
+  "description": "A clone of redux that operates its basic functionalities ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mocktarissa/redux-clone.git"
+  },
+  "keywords": [
+    "Redux",
+    "Redux",
+    "Clone",
+    "javascript"
+  ],
+  "author": "mocktarissa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mocktarissa/redux-clone/issues"
+  },
+  "homepage": "https://github.com/mocktarissa/redux-clone#readme"
+}
